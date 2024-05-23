@@ -16,6 +16,7 @@
 		A445FF992BFE5D130035CF6E /* DepressionProjectAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A445FF982BFE5D130035CF6E /* DepressionProjectAppTests.swift */; };
 		A445FFA32BFE5D130035CF6E /* DepressionProjectAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A445FFA22BFE5D130035CF6E /* DepressionProjectAppUITests.swift */; };
 		A445FFA52BFE5D130035CF6E /* DepressionProjectAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A445FFA42BFE5D130035CF6E /* DepressionProjectAppUITestsLaunchTests.swift */; };
+		A4C004252BFEF2EA003A344B /* ChattingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4C004242BFEF2EA003A344B /* ChattingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		A445FF9E2BFE5D130035CF6E /* DepressionProjectAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DepressionProjectAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A445FFA22BFE5D130035CF6E /* DepressionProjectAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DepressionProjectAppUITests.swift; sourceTree = "<group>"; };
 		A445FFA42BFE5D130035CF6E /* DepressionProjectAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DepressionProjectAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A4C004242BFEF2EA003A344B /* ChattingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChattingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			children = (
 				A445FF822BFE5D120035CF6E /* DepressionProjectAppApp.swift */,
 				A445FF842BFE5D120035CF6E /* ContentView.swift */,
+				A4C004242BFEF2EA003A344B /* ChattingView.swift */,
 				A445FF862BFE5D130035CF6E /* Assets.xcassets */,
 				A445FF8B2BFE5D130035CF6E /* Persistence.swift */,
 				A445FF8D2BFE5D130035CF6E /* DepressionProjectApp.xcdatamodeld */,
@@ -264,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A445FF8C2BFE5D130035CF6E /* Persistence.swift in Sources */,
+				A4C004252BFEF2EA003A344B /* ChattingView.swift in Sources */,
 				A445FF852BFE5D120035CF6E /* ContentView.swift in Sources */,
 				A445FF832BFE5D120035CF6E /* DepressionProjectAppApp.swift in Sources */,
 				A445FF8F2BFE5D130035CF6E /* DepressionProjectApp.xcdatamodeld in Sources */,
